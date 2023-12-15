@@ -1,0 +1,15 @@
+# Dependency directories
+/node_modules
+
+# Parcel cache
+/.parcel-cache
+
+# Build output
+/dist
+
+# Editor directories and files
+/.vscode
+/.idea
+
+# Logs
+/*.log
